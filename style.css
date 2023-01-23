@@ -573,7 +573,7 @@ nav ul li:hover {
 	color: #ffffff;
 }
 
-.list-style::before {
+.list-stylee::before {
 	content: '✔';
 	font-size: 15px;
 	color: #00FF85;
